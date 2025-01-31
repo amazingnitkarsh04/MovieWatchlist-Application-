@@ -2,7 +2,7 @@
 Welcome to **MovieWatchlist-Application**! This web application allows users to create and manage their personalized movie watchlist. Built with a robust backend and interactive frontend, it ensures seamless CRUD operations and dynamic content retrieval.
 
 ## 📹 Video Demo
-**MovieWatchlist.Speed.mp4**
+[**MovieWatchlist.Speed.mp4**](https://github.com/user-attachments/assets/48e713a0-e7f9-4022-bb2a-17d803bcad58)
 
 ## 🎥 Features
 
@@ -20,14 +20,11 @@ Welcome to **MovieWatchlist-Application**! This web application allows users to 
 - **Backend**: Core Java, Spring Boot, Hibernate JPA
 - **Frontend**: Thymeleaf Engine, HTML, CSS
 - **API Integration**: OMDb API for fetching movie details
-- **Database**: MySQL / PostgreSQL (configurable based on setup)
+- **Database**: h2 database inmemmory
 
 ## 🚀 Installation Guide
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/MovieWatchlist.git
-   cd MovieWatchlist
-   ```
+1. **Clone my Repository**
+   
 2. **Set Up the Backend**:
    - Configure database settings in `application.properties`.
    - Run the Spring Boot application:
@@ -46,4 +43,3 @@ Source code is not uploaded publicly due to intellectual property considerations
 
 Happy Coding! 🚀
 
-# MovieWatchlist-Application-
